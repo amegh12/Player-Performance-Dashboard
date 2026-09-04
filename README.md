@@ -45,20 +45,12 @@ The project uses a CSV dataset containing cricket player statistics.
 
 
 | Attribute | Details |
-
-|---|---|
-
-| File | `cricket\_data\_2026.csv` |
-
+|-----------|---------|
+| File | `cricket_data_2026.csv` |
 | Records | 1,096 |
-
 | Columns | 25 |
-
 | Format | CSV |
-
 | Data Preparation | Power Query |
-
-
 
 \### Key Fields
 

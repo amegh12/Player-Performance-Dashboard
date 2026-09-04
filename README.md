@@ -174,7 +174,7 @@ AVERAGE(cricket\_data\_2026\[Batting\_Strike\_Rate])
 
 
 
-
+```
 
 🧹 Data Cleaning \& Transformation
 
@@ -208,6 +208,18 @@ The main data preparation tasks included:
 * Interactive filters allow quick comparisons between players and years.
 
 
+## 📸 Dashboard Preview
 
+### Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### Player Filter
+
+![Player Filter](screenshots/player-filter.png)
+
+### Year Filter
+
+![Year Filter](screenshots/year-filter.png)
 
 
